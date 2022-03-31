@@ -2,6 +2,7 @@
 Basic Automated QA Testing in Unity - POW Games Case Study.
 
 Automated Test case with Unity Automated QA package.
+
 "UITest" script that is implanted in the game object called "AutomatedTest" in the first scene which is "MainMenu".
 
 Automated Run: In play mode automatically starts to testing navigate the "MeinMenu" and "Game" scenes.
