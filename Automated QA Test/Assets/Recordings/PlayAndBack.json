@@ -1,0 +1,145 @@
+{
+    "entryScene": "MainMenu",
+    "recordingType": 0,
+    "recordedAspectRatio": {
+        "x": 919.0,
+        "y": 798.0
+    },
+    "recordedResolution": {
+        "x": 3840.0,
+        "y": 2160.0
+    },
+    "recordings": [],
+    "touchData": [
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.5106063485145569,
+            "position": {
+                "x": 0.547089159488678,
+                "y": 0.48076921701431277
+            },
+            "positional": false,
+            "scene": "MainMenu",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "PlayButton",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/ButtonPanel",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15840822458267213,
+                "y": -0.2058572918176651
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.15826797485351563,
+            "position": {
+                "x": 0.547089159488678,
+                "y": 0.48076921701431277
+            },
+            "positional": false,
+            "scene": "MainMenu",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "PlayButton",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/ButtonPanel",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15840822458267213,
+                "y": -0.2058572918176651
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.9399867653846741,
+            "position": {
+                "x": 0.9205772280693054,
+                "y": 0.9335994124412537
+            },
+            "positional": false,
+            "scene": "Game",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "MainMenuButton",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/TopPanel",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.02815195731818676,
+                "y": -0.2793571949005127
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.0916438102722168,
+            "position": {
+                "x": 0.9205772280693054,
+                "y": 0.9335994124412537
+            },
+            "positional": false,
+            "scene": "Game",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "MainMenuButton",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/TopPanel",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.02815195731818676,
+                "y": -0.2793571949005127
+            }
+        },
+        {
+            "pointerId": 0,
+            "eventType": 0,
+            "timeDelta": 1.3999842405319214,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "positional": false,
+            "scene": "MainMenu",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "playbackComplete",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ]
+}
